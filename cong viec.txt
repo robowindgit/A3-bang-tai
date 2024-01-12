@@ -1,3 +1,0 @@
-- cần theo chân mấy ông bạn để hỏi và xem họ làm những gì, không giấu ngu
-- code hiện tại có khá nhiều máy, thì hỏi Thanh gửi hết code qua và 2ngày nghiên cứu 
-- phần điện cũng cần nghiên cứu thêm
